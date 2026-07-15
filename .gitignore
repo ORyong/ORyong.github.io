@@ -1,0 +1,6 @@
+node_modules
+dist
+.npm-cache
+*.local
+*.log
+id_ed25519
